@@ -1,0 +1,132 @@
+body {
+	font-family: arial;
+	color: #707070;
+	font-size: 15px;
+	margin: 0px;
+}
+
+#header {
+	background-color: #35B4B4;
+	width: 100%;
+}
+
+#img {
+	margin-top: 25px;
+	margin-bottom: 23px;
+	margin-left: 5%;
+}
+
+h1 {
+	margin-left: 550px;
+}
+
+
+#rechercher {
+	font-size: 18px;
+	margin-left: 45px;
+	
+}
+
+.liste {
+	margin-left: 45px;
+}
+.table h5 {
+	display: inline-block;
+}
+.spect1 p,div {
+	display: inline-block;
+}
+.spect2 p,div {
+	display: inline-block;
+}
+.spect3 p,div {
+	display: inline-block;
+}
+.spect4 p,div {
+	display: inline-block;
+}
+#id {
+	margin-left: 16px;
+}
+.id {
+	margin-left: 15px;
+}
+#titre {
+	margin-left: 150px;
+}
+.titre {
+	margin-left: 145px;
+}
+#duree {
+	margin-left: 150px;
+}
+.duree {
+	margin-left: 130px;
+}
+#date {
+	margin-left: 120px;
+}
+.date {
+	margin-left: 105px;
+}
+#synopsis {
+	margin-left: 240px;
+}
+.synopsis {
+	margin-left: 150px;
+}
+#action {
+	margin-left: 240px;
+	margin-right: 80px;
+}
+#bouton {
+	margin-left: 120px;
+}
+#hr1 {
+	margin-top: 0px;
+	margin-bottom: 35px;
+	color: #707070;
+}
+hr {
+	color: #707070;
+}
+
+#bouton a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	font-size: 13px;
+	padding: 9px 9px ;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	background-color: #35B4B4;
+	margin-top: 15px;
+}
+
+#bouton a:hover { 
+	overflow: hidden;
+	color: white;
+	background-color: #707070;
+}
+
+#Bbouton {
+	float: left;
+	display: block;
+	color: white; 
+	text-align: center;
+	font-size: 15px;
+	padding: 14px 16px;
+	margin-left: 40px;
+	margin-top: 40px;
+	text-decoration: none;
+	background-color: #35B4B4;
+	margin-bottom: 35px;
+}
+
+#Bbouton :hover { 
+	overflow: hidden;
+	color: #35B4B4;
+	background-color: white;
+}
